@@ -9,9 +9,9 @@ To work fine, it is necessary to activate the macros as soon as the file is open
 
 ## Manual
 <ol>
-<ul>open workbook </ul>
-<ul>activate content</ul>
-<ul>choose both files by clicking on select 2 files button</ul>
-<ul>launch comparison by clicking on compare files</ul>
+<li>open workbook </li>
+<li>activate content</li>
+<li>choose both files by clicking on select 2 files button</li>
+<li>launch comparison by clicking on compare files</li>
  </ol>
  
